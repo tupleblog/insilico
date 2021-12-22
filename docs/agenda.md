@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ตารางงาน In Silico, Bangkok screening
+title: ตารางงานศิลประสาท(ศาสตร์)
 permalink: /agenda/
 ---
 
@@ -23,7 +23,7 @@ permalink: /agenda/
 
 - **สถานที่:** [Documentary Club](https://documentaryclubthailand.com/)
 - **เวลา:** 13:00 - 17:00 น.
-- แขกผู้ร่วมสนทนา
+- **แขกผู้ร่วมสนทนา:**
   - ดร. ธิปรัตน์ โชติบุตร (ธิป) นักวิจัยฟิสิกส์และควอนตัมฟิสิกส์
   - ดร. ลลิตา ธิดาวานร (ปอล) นักวิจัยสมองด้านการตัดสินใจ
   - ดร. ศิรวัจน์ อิทธิภูริพัฒน์ นักวิจัยสมองด้านรับรู้และจอจ่อ
@@ -33,7 +33,6 @@ permalink: /agenda/
 - **Google maps:** [https://goo.gl/maps/ZckLru1LuNWqQ9Uh7](https://goo.gl/maps/ZckLru1LuNWqQ9Uh7)
 - **มาตรการณ์โควิทของงาน:** เนื่องจากเราคำนึงถึงผู้เข้าร่วมงานทุกคน ดังนั้นผู้จัดงานจะมีการทำ ATK test สำหรับผู้ร่วมงานทุกคน
   ก่อนที่จะเข้าร่วมงานในช่วงบ่าย
+- **รายละเอียดเพิ่มเติมเกี่ยวกับ In Silico:** [https://insilicofilm.com/](https://insilicofilm.com/)
 
 <hr />
-
-รายละเอียดเพิ่มเติมเกี่ยวกับ In Silico: [https://insilicofilm.com/](https://insilicofilm.com/)
