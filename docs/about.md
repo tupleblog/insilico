@@ -19,12 +19,14 @@ permalink: /about/
 - พงศกร เวชการ มหาวิทยาลัยมหิดล
 - รศ.ดร.ยศชนัน วงศ์สวัสดิ์ มหาวิทยาลัยมหิดล
 - เฮนรี่ แทน ศิลปินอิสระ
+- [425Degree](https://www.425degree.com/) (live และ production)
 
 <center>
   <p class="sponsor-imgs">
     <div class="row">
       <img src="{{ site.baseurl }}/images/chula-logo.png"  width="200" />
-      <img src="{{ site.baseurl }}/images/mahidol-logo.png"  width="200" />
+      <img src="{{ site.baseurl }}/images/mahidol-logo.png"  width="250" />
+      <img src="{{ site.baseurl }}/images/425-logo.jpg"  width="150" />
     </div>
   </p>
 </center>
